@@ -1,2 +1,3 @@
-node_modules/
-hardhat-simple-storage/
+node_modules
+hardhat-simple-storage
+dist
